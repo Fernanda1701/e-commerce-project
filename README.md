@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">Projeto E-commerce com microsserviços em Java 🛍️</a>
+    <a href="https://github.com/Fernanda1701/e-commerce-project">Projeto E-commerce com microsserviços em Java 🛍️</a>
 </h1>
 <p align="center">API de e-commerce desenvolvida em aula</p>
 
