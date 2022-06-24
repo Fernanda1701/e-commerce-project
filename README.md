@@ -59,7 +59,7 @@ O consumo funciona como no seguinte esquema:
 - [Java](https://www.java.com/) 14
 - [Gradle](https://gradle.org)
 - [Spring Boot](https://spring.io/projects/spring-boot) 2.3.1.RELEASE
-- Versionamento de código no [GitHub](https://github.com/)
+- Versionamento de código no [Git](https://git-scm.com/)
 - [Docker](https://www.docker.com/)
 - [PostgreSQL](https://www.postgresql.org/)
 
